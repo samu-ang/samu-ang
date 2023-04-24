@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning Graphic Design
 
 ## Projects / Wallpaper
-## ----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
-1. GNU / Linux Wallpapers
+1. GNU / Linux Distros Wallpapers
+  a) Fedora
+  b) Ubuntu
 
-|_start
-  |__ Fedora
-  | 
-  |__ Ubuntu
