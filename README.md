@@ -2,9 +2,10 @@
 - 👀 I’m interested in Programming in Lua, Rust, HTML, CSS, JavaScript
 - 🌱 I’m currently learning Graphic Design
 
-Projects / Wallpaper
-----------------------------------------------------------------------------------------------
+## Projects / Wallpaper
+## ----------------------------------------------------------------------------------------------
 
 1. GNU / Linux Wallpapers
-↳Fedora
-↳ Ubuntu
+|__ Fedora
+| 
+|__ Ubuntu
