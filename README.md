@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @samu-ang
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Graphic Design
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning JavaScript
 - 😁 and i use fedora, btw
-
-## Projects / Wallpaper
-
-1. GNU / Linux Distros Wallpapers
-
-
- > Fedora
-  
- > Ubuntu
